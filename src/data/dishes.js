@@ -52,7 +52,7 @@ const DISHES = [
         category: 'meal',
         label: '',
         price: '599',
-        description: 'BBQ chicken pizza with tangy BBQ sauce, chicken, and red onion. Gouda cheese gives the homemade pizza the most delicious smoky flavor and cilantro adds a touch of freshness. My pizza dough recipe makes enough for two 12-inch pizzas, so you can freeze half for later. It’s an easy thick-style pizza crust with unbeatable flavor.',
+        description: 'BBQ chicken pizza with tangy  BBQ sauce, chicken, and red onion. Gouda cheese gives the homemade pizza the most delicious smoky flavor and cilantro adds a touch of freshness. My pizza dough recipe makes enough for two 12-inch pizzas, so you can freeze half for later. It’s an easy thick-style pizza crust with unbeatable flavor.',
         comments: [
             {
                 id: 0,
