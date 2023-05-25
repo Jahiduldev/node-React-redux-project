@@ -6,7 +6,7 @@ const DISHES = [
         category: 'meal',
         label: 'Hot',
         price: '199',
-        description: 'This chicken burger gets an Asian-flavor twist with ginger and garlic. It\'s topped off with a fabulous coleslaw. If you like, serve the coleslaw as a side for grilled items, like chicken breasts, fish fillets or chops',
+        description:  'This chicken burger gets an Asian-flavor twist with ginger and garlic. It\'s topped off with a fabulous coleslaw. If you like, serve the coleslaw as a side for grilled items, like chicken breasts, fish fillets or chops',
         comments: [
             {
                 id: 0,
