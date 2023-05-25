@@ -13,7 +13,7 @@ const DISHES = [
                 rating: 5,
                 comment: "Imagine all the eatables, living in conFusion!",
                 author: "Shanto",
-                date: "2018-10-16T17:57:28.556094Z"
+                date:  "2018-10-16T17:57:28.556094Z"
             },
             {
                 id: 1,
